@@ -14,9 +14,9 @@ From Alphabet Soup’s business team, you have received a CSV containing more th
 - ASK_AMT—Funding amount requested
 - IS_SUCCESSFUL—Was the money used effectively
 
-##　Instructions
-###　Step 1: Preprocess the Data
-###　Step 2: Compile, Train, and Evaluate the Model
-###　Step 3: Optimize the Model
-###　Step 4: Write a Report on the Neural Network Model
-###　Step 5: Copy Files Into Your Repository
+## Instructions
+### Step 1: Preprocess the Data
+### Step 2: Compile, Train, and Evaluate the Model
+### Step 3: Optimize the Model
+### Step 4: Write a Report on the Neural Network Model
+### Step 5: Copy Files Into Your Repository
